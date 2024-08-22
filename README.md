@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Barth.
-- 👀 I’m interested in Coding, Games, Art,.
+- 👀 I’m interested in Coding, Games, Art.
 - 🌱 I’m currently learning Java ☕ | JavaScript👹 | TypeScript😺 | Python🐍 | Lua🌕 | C/C++ 🇨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

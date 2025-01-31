@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barth.
 - 👀 I’m interested in Coding, Games, Art.
-- 🌱 I’m currently learning Java ☕ | JavaScript👹 | TypeScript😺 | Python🐍 | Lua🌕 | C/C++ 🇨
+- 🌱 I’m currently learning Java ☕ | TypeScript😺 | Python🐍 | Lua🌕 | C/C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bschostak&layout=compact&hide=html,css)
 <!---- 💞️ I’m looking to collaborate on ...

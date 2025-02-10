@@ -4,10 +4,6 @@
 - 🌱 I’m currently learning Java ☕ | TypeScript😺 | Python🐍 | Lua🌕 | C/C++
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bschostak&layout=compact&hide=html,css)
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Yyy Discord?
-- 😄 Pronouns: yes
-- ⚡ Fun fact: I like squirrels ^^
 
 ## I'm using
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -26,6 +22,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!---- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Yyy Discord?
+- 😄 Pronouns: yes
+- ⚡ Fun fact: I like squirrels ^^
 
 <!---
 bschostak/bschostak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
